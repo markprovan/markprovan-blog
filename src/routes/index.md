@@ -1,6 +1,7 @@
 ---
 label: Home
-title: SvelteKit Netlify CMS
+title: Hello
+nav_label: Test
 ---
 
 # Welcome to the SvelteKit Netlify CMS example
